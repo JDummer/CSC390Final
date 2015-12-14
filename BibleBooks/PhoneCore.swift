@@ -12,4 +12,5 @@ import Parse
 class PhoneCore: NSObject
 {
     static var currentUser:PFUser!
+
 }
